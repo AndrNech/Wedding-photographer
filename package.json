@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/Nexus-Forge-team-project/",
+    "build": "vite build --base=/Wedding-photographer/",
     "preview": "vite preview"
   },
   "devDependencies": {
