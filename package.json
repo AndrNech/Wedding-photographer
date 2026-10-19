@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/Wedding-photographer/",
+    "build": "vite build --base=/Wedding-photographer_teamProject/",
     "preview": "vite preview"
   },
   "devDependencies": {
